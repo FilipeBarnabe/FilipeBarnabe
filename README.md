@@ -1,4 +1,9 @@
-# Filipe Barnabé 👋
+<h3 align="center">
+  Welcome to Filipe Barnabé profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Always+learning+new+things;Data+Scientist%2FEngineer%2FAnalyst;BI+analyst+)](https://git.io/typing-svg)
 
 **`Digital Craftsman (Developer/Data Driven/Data Scientist)`**
 
