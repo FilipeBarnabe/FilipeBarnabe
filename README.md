@@ -18,7 +18,7 @@
 
 ---
 
-### 🧰 Languages and Tools
+### <img src="https://media.giphy.com/media/RhMmGFlRGT1UtgGTaD/giphy.gif" width="35" align="center"> Languages and Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="R" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />
