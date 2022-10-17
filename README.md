@@ -34,7 +34,7 @@
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://www.tethysplatform.org/images/github-icon.png" />
 <br/>
 
-#
+
 ---
 
 Here is a short summary of myself:
