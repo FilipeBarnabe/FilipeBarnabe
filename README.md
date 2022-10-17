@@ -7,10 +7,10 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=+Always+learning+new+things;+Data+Scientist%2FEngineer%2FAnalyst;+BI+analyst" alt="Typing SVG" /></a> -->
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Always%20learning%20new%20things;Data%20Scientist%2FEngineer%2FAnalyst;
   BI%20Analyst&font=Fira%20Code&center=true&width=440&height=45&color=36BCF7FF&vCenter=true&size=22&pause=1000"></a>
-</p>
+</p> -->
 
 **`Digital Craftsman (Developer/Data Driven/Data Scientist)`**
 
