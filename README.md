@@ -1,6 +1,6 @@
 <h1 align="center">
   Welcome to Filipe Barnabé profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
 ---
@@ -14,7 +14,7 @@
   BI%20Analyst&font=Fira%20Code&center=true&width=440&height=45&color=36BCF7FF&vCenter=true&size=22&pause=1000"></a>
 </p> -->
 
-**`Digital Craftsman (Developer/Data Driven/Data Scientist)`**
+**`Digital Craftsman (Developer/Data Driven/Data Scientist)`** <img src=https://media.giphy.com/media/br99SojJZ5rlfSYset/giphy.gif width=18>
 
 ---
 
