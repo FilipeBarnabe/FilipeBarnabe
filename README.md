@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-#
+---
 
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=550&lines=+Always+learning+new+things;+Data+Scientist%2FEngineer%2FAnalyst;+BI+analyst)](https://git.io/typing-svg)
 
@@ -15,6 +15,8 @@
 </p> -->
 
 **`Digital Craftsman (Developer/Data Driven/Data Scientist)`**
+
+---
 
 ### 🧰 Languages and Tools
 
@@ -33,6 +35,7 @@
 <br/>
 
 #
+---
 
 Here is a short summary of myself:
 - 🔭 I’m currently working as a Data Scientist
