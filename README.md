@@ -14,7 +14,7 @@
   BI%20Analyst&font=Fira%20Code&center=true&width=440&height=45&color=36BCF7FF&vCenter=true&size=22&pause=1000"></a>
 </p> -->
 
-<img src="https://media.giphy.com/media/OMrq9FmUgObwogeL06/giphy.gif" width="35" align="center"> **`Digital Craftsman (Developer/Data Driven/Data Scientist)`** 
+<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="35" align="center"> **`Digital Craftsman (Developer/Data Driven/Data Scientist)`** 
 
 ---
 
