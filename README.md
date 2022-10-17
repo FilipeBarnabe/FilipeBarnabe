@@ -14,18 +14,15 @@
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
+--
+
 #
-<!--
-**FilipeBarnabe/FilipeBarnabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here is a short summary of myself:
+- 🔭 I’m currently working as a Data Scientist
+- 🌱 I’m currently attending a Master's in Data Science
+- 👯 I’m looking to collaborate on Data driven projects
+- 🤔 I’m looking for help to improve the world
+- 💬 Ask me about my story 
+- ⚡ Fun fact: exercise lover
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- - 📫 How to reach me: ... -->
