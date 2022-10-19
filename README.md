@@ -39,10 +39,10 @@
 
 Here is a short summary of myself:
 - 🔭 I’m currently working as a Data Scientist
-- 🌱 I’m currently attending a Master's in Data Science
-- 👯 I’m looking to collaborate on Data driven projects
-- 🤔 I’m looking for help to improve the world
+- 📚 I’m currently attending a Master's in Data Science
+- 🤝 I’m looking to collaborate on Data driven projects
+- 🤔 I’m looking for help improving the future
 - 💬 Ask me about my story 
-- ⚡ Fun fact: exercise lover
+- 🥋 Fun fact: exercise lover
 
 <!-- - 📫 How to reach me: ... -->
