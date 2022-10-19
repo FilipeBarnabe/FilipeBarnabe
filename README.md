@@ -38,7 +38,7 @@
 ---
 
 Here is a short summary of myself:
-- 🔭 I’m currently working as a Data Scientist
+- 📈 I’m currently working as a Data Scientist
 - 📚 I’m currently attending a Master's in Data Science
 - 🤝 I’m looking to collaborate on Data driven projects
 - 🤔 I’m looking for help improving the future
