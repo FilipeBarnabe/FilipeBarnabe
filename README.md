@@ -14,7 +14,7 @@
   BI%20Analyst&font=Fira%20Code&center=true&width=440&height=45&color=36BCF7FF&vCenter=true&size=22&pause=1000"></a>
 </p> -->
 
-<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="35" align="center"> **`Digital Craftsman (Developer/Data Driven/Data Scientist)`** 
+<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="35" align="center"> **`Digital Craftsman (Developer/Data Driven/Data Engineer)`** 
 
 ---
 
@@ -48,7 +48,7 @@ Here is a short summary of myself:
 - 🤔 I’m looking for help improving the future
 - 💬 Ask me about my story 
 - 🥋 Fun fact: exercise lover
-- 📫 How to reach me: Via [Linkedin]("<www.linkedin.com/in/filipe-barnabé-a99135205>")
+- 📫 How to reach me: Via [Linkedin](www.linkedin.com/in/filipe-barnabé-a99135205)
 
 --- 
 
