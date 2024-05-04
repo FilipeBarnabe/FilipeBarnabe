@@ -42,11 +42,17 @@
 ---
 
 Here is a short summary of myself:
-- 📈 I’m currently working as a Data Scientist
-- 📚 I’m currently attending a Master's in Data Science
+- 📈 I’m currently working as a Data Engineer
+- 📚 Master's in Data Science & Engineering
 - 🤝 I’m looking to collaborate on Data driven projects
 - 🤔 I’m looking for help improving the future
 - 💬 Ask me about my story 
 - 🥋 Fun fact: exercise lover
+- 📫 How to reach me: Via [Linkedin]("www.linkedin.com/in/filipe-barnabé-a99135205")
 
-<!-- - 📫 How to reach me: ... -->
+--- 
+
+What am I trying to work on this year:
+- Learning a new languge at the moment -> Rust
+- Improve my comunicaiton and leadership skills
+- Diving deep into Kafka is on my todo list
