@@ -48,7 +48,7 @@ Here is a short summary of myself:
 - 🤔 I’m looking for help improving the future
 - 💬 Ask me about my story 
 - 🥋 Fun fact: exercise lover
-- 📫 How to reach me: Via [Linkedin](www.linkedin.com/in/filipe-barnabé-a99135205)
+- 📫 How to reach me: Via [Linkedin](https://www.linkedin.com/in/filipe-barnabé-a99135205)
 
 --- 
 
