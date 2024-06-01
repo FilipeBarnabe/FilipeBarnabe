@@ -1,5 +1,5 @@
 <h1 align="center">
-  Welcome to Filipe Barnabé profile!
+  Welcome to my profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
@@ -41,10 +41,10 @@
 
 ---
 
-Here is a short summary of myself:
+Here is a summary of myself:
 - 📈 I’m currently working as a Data Engineer
 - 📚 Master's in Data Science & Engineering
-- 🤝 I’m looking to collaborate on Data driven projects
+- 🤝 I’m looking to collaborate on Data-driven projects
 - 🤔 I’m looking for help improving the future
 - 💬 Ask me about my story 
 - 🥋 Fun fact: exercise lover
@@ -53,6 +53,6 @@ Here is a short summary of myself:
 --- 
 
 What am I trying to work on this year:
-- Learning a new languge at the moment -> Rust
-- Improve my comunicaiton and leadership skills
+- Learning a new language at the moment -> Rust
+- Improve my communication and leadership skills
 - Diving deep into Kafka is on my todo list
