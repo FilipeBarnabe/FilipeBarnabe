@@ -55,4 +55,4 @@ Here is a summary of myself:
 What am I trying to work on this year:
 - Learning a new language at the moment -> Rust
 - Improve my communication and leadership skills
-- Diving deep into Kafka is on my todo list
+- Diving deep into Kafka and streaming
